@@ -69,4 +69,5 @@ group :test do
 end
 
 gem 'sidekiq'
+gem "sidekiq-cron"
 gem "faker", "~> 3.3"
